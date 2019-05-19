@@ -4,3 +4,5 @@ Finds jobs on LinkedIn using additional paramaters. The script can exclude keywo
 The code requires FireFox but can be changed to any browser with some minor changes.
 
 A one-minute preview of how the code runs can be found here: https://www.youtube.com/watch?v=MTwsENREe5s
+
+To download appropriate webdriver: https://selenium-python.readthedocs.io/installation.html
